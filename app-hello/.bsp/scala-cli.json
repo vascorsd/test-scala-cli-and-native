@@ -1,0 +1,16 @@
+{
+  "name": "scala-cli",
+  "argv": [
+    "/usr/bin/scala-cli",
+    "bsp",
+    "--json-options",
+    "/home/diaz/dev/personal/scala/test-scala-native-stuff/app-hello/.scala-build/ide-options-v2.json",
+    "/home/diaz/dev/personal/scala/test-scala-native-stuff/app-hello"
+  ],
+  "version": "0.1.12",
+  "bspVersion": "2.0.0",
+  "languages": [
+    "scala",
+    "java"
+  ]
+}
