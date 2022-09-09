@@ -42,5 +42,12 @@ run-native-explicit-scala-and-native-versions:
 
 run-using-script:
     #!/usr/bin/env -S scala-cli shebang
+
     println("from just file script")
+    println("IT ACTUALLY DOESNT WORK LOL")
+
+confirm-shells-working:
+    #!/usr/bin/env bash
+
+    echo "really works"
 
